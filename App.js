@@ -52,6 +52,13 @@ export default function App() {
         imagem="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg"
         descricao="Período Etec das 13h00 ás 18h20"
       ></Card>
+
+       <Card
+        porcentagem="40%"
+        titulo="Etec"
+        imagem="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg"
+        descricao="Período Etec das 13h00 ás 18h20"
+      ></Card>
     </View>
   );
 }
