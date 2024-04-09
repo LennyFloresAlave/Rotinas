@@ -14,14 +14,14 @@ export default function App() {
       <Card
         porcentagem="20%"
         titulo="Leitura"
-        imagem="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4K8YrLCekTz2lj236GCUTnfBoLNTE3nYg0e0VakYflPgiotVTEsHXgEkRSy8vPwaiBtU&usqp=CAU"
-        descricao="Livros de romance"
+        imagem=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4K8YrLCekTz2lj236GCUTnfBoLNTE3nYg0e0VakYflPgiotVTEsHXgEkRSy8vPwaiBtU&usqp=CAU"
+        descricao="Livros de Romances"
       ></Card>
 
       <Card
         porcentagem="40%"
         titulo="Ir para a escola"
-        imagem="https://portalmatogrosso.com.br/wp-content/uploads/2023/04/90bb58a4d58ddb00c4b7ff85f0738d0d.jpeg"
+        imagem="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg"
         descricao="Para estudar"
       ></Card>
 
@@ -35,29 +35,22 @@ export default function App() {
       <Card
         porcentagem="5%"
         titulo="Jantar"
-        imagem="https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2017/08/istock-527665536.jpg?quality=100&strip=info&w=720&h=440&crop=1"
-        descricao="Comer"
+        imagem=" https://previews.123rf.com/images/nutalinakul/nutalinakul2004/nutalinakul200400008/143842426-jantar-com-bife-e-batata-no-prato-pratos-de-desenhos-animados-isolados-ilustra%C3%A7%C3%A3o-de-cor-doodle-de.jpg"
+        descricao="Comer comida"
       ></Card>
 
       <Card
-        porcentagem="15%"
-        titulo="Se Arrumar para ir a Etec"
-        imagem="https://i.pinimg.com/originals/ef/1f/ce/ef1fce501ee7135a77900ddab8624ad2.jpg"
+        porcentagem="10%"
+        titulo="Skincare"
+        imagem=" https://i.pinimg.com/736x/ea/ff/48/eaff48848f0dc941adc908a01838f716.jpg"
         descricao="Se arrumar para ir para Etec"
       ></Card>
 
       <Card
-        porcentagem="40%"
-        titulo="Etec"
-        imagem="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg"
-        descricao="Período Etec das 13h00 ás 18h20"
-      ></Card>
-
-       <Card
-        porcentagem="40%"
-        titulo="Etec"
-        imagem="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/62649497_1099632600224745_1950717718562865152_n.jpg"
-        descricao="Período Etec das 13h00 ás 18h20"
+        porcentagem="15%"
+        titulo="Dormir"
+        imagem=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-PipcwlEy9oBiBmyO5kumj0TgubX8jILPA&s"
+        descricao="Dormir faz bem"
       ></Card>
     </View>
   );
