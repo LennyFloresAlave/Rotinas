@@ -1,17 +1,17 @@
-const DATA = [
+const data = [
     {
         id:'01',
-        porcentagem:"20%",
-        titulo:"Leitura",
-        imagem:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4K8YrLCekTz2lj236GCUTnfBoLNTE3nYg0e0VakYflPgiotVTEsHXgEkRSy8vPwaiBtU&usqp=CAU",
-        descricao:"Livros de romance"
+        porcentagem:'20%',
+        titulo:'Leitura',
+        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4K8YrLCekTz2lj236GCUTnfBoLNTE3nYg0e0VakYflPgiotVTEsHXgEkRSy8vPwaiBtU&usqp=CAU',
+        descricao:'Livros de romance'
     },
     {
         id:'02',
         porcentagem:'40%',
-  titulo:'ir pra escola',
-  imagem:'https://portalmatogrosso.com.br/wp-content/uploads/2023/04/90bb58a4d58ddb00c4b7ff85f0738d0d.jpeg',
-  descricao:'Para estudar'
+        titulo:'ir pra escola',
+        imagem:'https://portalmatogrosso.com.br/wp-content/uploads/2023/04/90bb58a4d58ddb00c4b7ff85f0738d0d.jpeg',
+        descricao:'Para estudar'
     },
     {
         id:'03',
@@ -42,3 +42,5 @@ const DATA = [
         descricao:'Dormir faz bem ' 
     }
 ]
+
+export default data;
