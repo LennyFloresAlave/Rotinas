@@ -10,6 +10,7 @@ export default function App() {
       <Header></Header>
       <FlatList style={{width:'100%'}}
         data={ROTINAS}
+        horizontal = {true}
         keyExtractor={(item) => item.id}
         renderItem={({ item }) => (
           <Card

@@ -3,28 +3,28 @@ const data = [
         id:'01',
         porcentagem:'20%',
         titulo:'Leitura',
-        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4K8YrLCekTz2lj236GCUTnfBoLNTE3nYg0e0VakYflPgiotVTEsHXgEkRSy8vPwaiBtU&usqp=CAU',
+        imagem:'https://s7d1.scene7.com/is/image/mcdonalds/ngk_gui_nl_main_big_mac:1-3-product-tile-desktop?wid=765&hei=472&dpr=off',
         descricao:'Livros de romance'
     },
     {
         id:'02',
         porcentagem:'40%',
         titulo:'ir pra escola',
-        imagem:'https://portalmatogrosso.com.br/wp-content/uploads/2023/04/90bb58a4d58ddb00c4b7ff85f0738d0d.jpeg',
+        imagem:'https://s7d1.scene7.com/is/image/mcdonalds/ngk_gui_nl_main_app_mcchicken:1-3-product-tile-desktop?wid=765&hei=472&dpr=off',
         descricao:'Para estudar'
     },
     {
         id:'03',
         porcentagem:'10%',
         titulo:'Estudos para o ENEM',
-        imagem:'https://www.estudaqui.com/wp-content/uploads/2020/05/como-estudar-enem-sozinho.png',
+        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAleqcxXYa3SXgIVQNBFCuaDg8EaNFxQpmzE0cFIcUmw&s',
         descricao:'Para um futuro melhor'
     },
     {
         id:'04',
         porcentagem:'5%',
         titulo:'Jantar',
-        imagem:'https://previews.123rf.com/images/nutalinakul/nutalinakul2004/nutalinakul200400008/143842426-jantar-com-bife-e-batata-no-prato-pratos-de-desenhos-animados-isolados-ilustra%C3%A7%C3%A3o-de-cor-doodle-de.jpg',
+        imagem:'https://www.mcdsmenu.com/wp-content/uploads/2024/02/deluxe-mccrispy-65cc675257b0f.webp',
         descricao:'Comer comida'
     },
     {
@@ -36,6 +36,48 @@ const data = [
     },
     {
         id:'06',
+        porcentagem:'15%',
+        titulo:'Dormir',
+        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-PipcwlEy9oBiBmyO5kumj0TgubX8jILPA&s',
+        descricao:'Dormir faz bem ' 
+    },
+    {
+        id:'07',
+        porcentagem:'15%',
+        titulo:'Dormir',
+        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-PipcwlEy9oBiBmyO5kumj0TgubX8jILPA&s',
+        descricao:'Dormir faz bem ' 
+    },
+    {
+        id:'08',
+        porcentagem:'15%',
+        titulo:'Dormir',
+        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-PipcwlEy9oBiBmyO5kumj0TgubX8jILPA&s',
+        descricao:'Dormir faz bem ' 
+    },
+    {
+        id:'09',
+        porcentagem:'15%',
+        titulo:'Dormir',
+        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-PipcwlEy9oBiBmyO5kumj0TgubX8jILPA&s',
+        descricao:'Dormir faz bem ' 
+    },
+    {
+        id:'10',
+        porcentagem:'15%',
+        titulo:'Dormir',
+        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-PipcwlEy9oBiBmyO5kumj0TgubX8jILPA&s',
+        descricao:'Dormir faz bem ' 
+    },
+    {
+        id:'11',
+        porcentagem:'15%',
+        titulo:'Dormir',
+        imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-PipcwlEy9oBiBmyO5kumj0TgubX8jILPA&s',
+        descricao:'Dormir faz bem ' 
+    },
+    {
+        id:'12',
         porcentagem:'15%',
         titulo:'Dormir',
         imagem:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-PipcwlEy9oBiBmyO5kumj0TgubX8jILPA&s',
